@@ -6,3 +6,9 @@ Este é o meu repositório especial onde compartilho um pouco sobre minha jornad
 - 💻 Focado em Python, HTML e CSS 
 - 🚀 Preparando-se para o mercado de tecnologia
 - 📫 Contato: abbadealvinho@gmail.com
+
+---
+### 📺 Conecte-se comigo
+- [Canal alvinho0510](https://www.youtube.com/channel/UCf8Rl4u1GRBUAm6Z9LxMDOg)
+- [Meu Blog](https://alvinho0510.blogspot.com)
+- [Instagram](https://instagram.com/alvinho0510)
